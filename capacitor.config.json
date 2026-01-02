@@ -1,0 +1,9 @@
+{
+  "appId": "com.forge.myapp",
+  "appName": "MijnNativeApp",
+  "webDir": "www",
+  "server": {
+    "url": "https://www.google.nl",
+    "cleartext": true
+  }
+}
